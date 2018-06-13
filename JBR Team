@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <head>
+        <title>JBR Team</title>
+        <meta charset="utf-8"/>
+        <meta name="auther" content="Pham Quoc Khanh,FoBleU"/>
+        <meta name="keyword" content="JBR,JBR Team,jbr"/>
+        <title>JBR Team</title>
+        <link rel="stylesheet" href="style.css"/>
+        <link rel="shortcut icon" href="https://yt3.ggpht.com/a-/AJLlDp3qlKdF3kk05BkolMumjOvSZ8n4csBtdAQlhg=s900-mo-c-c0xffffffff-rj-k-no" type="image/x-icon" />
+    </head>
+    <body>
+        <p style="font-size: 32px; background-color: black;text-align: center"><span style="color: white">Chào mừng đến với </span><strong style="color:red">JBR Team</strong></p>
+        <div align="center"><img src="https://yt3.ggpht.com/a-/AJLlDp3qlKdF3kk05BkolMumjOvSZ8n4csBtdAQlhg=s900-mo-c-c0xffffffff-rj-k-no" alt="hình ảnh về JBR Team" title="JBR Team"width="180px" height="180px"></div>
+        <hr>
+        <h3>Ứng dụng của chúng tôi</h3>
+        <dt>Zuckercrush0.2</dt>
+        <dd><a href="https://raw.githubusercontent.com/Juun2/zuckerCrush0.2/master/Zuckercrush02.js" title="Zucker Crush 0.2" target="_blank">Link</a></dd>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/2bGc2w0AUY8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>        </video></p>
+        <ul>
+            <pre>- Tính năng : 
+                    + Tải ảnh và video từ Instagram 
+                    + Tải ảnh và video từ stories Instagram
+                    + Tải ảnh và video từ stories facebook
+                    + Bật Khiên Avatar Facebook
+                    + Crack Khiên Avatar Facebook
+                    - Cập nhập : 
+                    + Tải video từ instagram 
+                    + Tải ảnh từ instagram dù là quyền riêng tư
+                    + Fix bug tải video từ stories instagram 
+                    + Bật Khiên Avatar Facebook
+                    + Crack Khiên Avatar Facebook
+                    Sau khi có quá nhiều bug ở Zucker Crush 0.1 và Crush của các bạn và mình có một 
+                    số thay đổi khác mình về quyền riêng tư (thật ra là trùng hợp) vì thế lần này 
+                    mình sẽ DOM thẳng xuống thay vì gọi dịch vụ Insd.ga của mình (hic) .
+                    
+                    Còn bật khiên bây giờ chỉ cần 1 click các bạn đã có thể bật khiên rồi . À cái web
+                     bật khiên các bạn có thể thay cái web khác nếu hk thích dùng của anonyviet . Về 
+                     crack khiên các bạn tricker có thể cầm đi thách thức phá khiên vui vẻ nhé (cho đấy 
+                     hihi)</pre>
+            <li>Tên tác giả: <a href="https://www.facebook.com/cancervohox" title="trang cá nhân" target="_blank">Huỳnh Bá Quốc</a></li>
+        </ul>
+    </body>
+</html>
